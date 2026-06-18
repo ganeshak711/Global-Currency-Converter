@@ -9,6 +9,7 @@ A simple and responsive currency converter built with HTML, CSS, and JavaScript.
 * Responsive user interface
 * Easy to use
 
+
 ## Technologies
 
 * HTML
